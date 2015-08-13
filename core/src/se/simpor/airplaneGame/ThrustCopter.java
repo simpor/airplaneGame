@@ -35,6 +35,7 @@ public class ThrustCopter extends Game {
 
     @Override
     public void create() {
+        // hämta fler ikoner på https://www.google.com/design/icons/
 
         manager.load("gameover.png", Texture.class);
         manager.load("life.png", Texture.class);
