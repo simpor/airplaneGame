@@ -4,8 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import se.simpor.helicopter.ThrustCopter;
-import se.simpor.helicopter.ThrustCopterScene;
+import se.simpor.airplaneGame.ThrustCopter;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

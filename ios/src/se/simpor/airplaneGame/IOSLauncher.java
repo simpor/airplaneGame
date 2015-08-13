@@ -1,4 +1,4 @@
-package se.simpor.helicopter;
+package se.simpor.airplaneGame;
 
 import org.robovm.apple.foundation.NSAutoreleasePool;
 import org.robovm.apple.uikit.UIApplication;

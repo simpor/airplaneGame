@@ -1,4 +1,4 @@
-package se.simpor.helicopter;
+package se.simpor.airplaneGame;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;

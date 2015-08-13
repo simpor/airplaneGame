@@ -1,9 +1,8 @@
-package se.simpor.helicopter.desktop;
+package se.simpor.airplaneGame.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import se.simpor.helicopter.ThrustCopter;
-import se.simpor.helicopter.ThrustCopterScene;
+import se.simpor.airplaneGame.ThrustCopter;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
